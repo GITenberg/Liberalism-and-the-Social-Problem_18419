@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1601
     wikipedia: http://en.wikipedia.org/wiki/Winston_Churchill
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18419#Liberalism-and-the-Social-Problem
 gutenberg_issued: '2006-05-18'
 gutenberg_type: Text
 identifiers:
